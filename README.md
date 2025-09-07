@@ -22,7 +22,7 @@ The technologies used in this project are:
 
 
 ## Application Architecture
-![image](https://github.com/user-attachments/assets/d4ef38bd-8ae5-4cc7-9ac5-7a8e5ec3c969)
+![image](https://github.com/niharingle30/springboot-microservices-eCommerce/blob/21b76b9ae5534d8f9db3aa466486006a35cf7f11/Architecture.png)
 
 
 ## How to build the backend services
